@@ -59,7 +59,7 @@
     "expo-notifications": "~0.28.9",
     "expo-splash-screen": "~0.29.22",
     "expo-status-bar": "~1.12.1",
-    "expo-task-manager": "~12.0.5",
+    "expo-task-manager": "~57.0.21",
     "expo-updates": "~0.25.18",
     "graphql": "^16.10.0",
     "i18n-js": "^3.7.1",
